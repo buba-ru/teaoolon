@@ -12,7 +12,21 @@
   },
   "dependencies": {
     "tea-demonstration": "1.0.0",
-    "minti_fulkerson": "0.1.4"
+    "minti_fulkerson": "0.1.4",
+    "curryd224-uuid-utils": "1.0.0",
+    "jessicamogel03-random-array": "1.0.0",
+    "kamidpavil-password-utils": "1.0.0",
+    "mandytrowbridge260-date-time": "1.0.0",
+    "puytaupojahrjoy-random": "1.0.0",
+    "vadimtk1-array": "1.0.0",
+    "starknet-combine": "1.0.0",
+    "mrbecek-tea-oss": "1.1.5",
+    "datanex": "1.1.4",
+    "keenantea": "1.1.4",
+    "create-evm-wallets-csv": "1.1.0",
+    "totolink": "1.1.4",
+    "salmonella": "1.1.4",
+    "telekjarangoyang": "1.1.4"
   },
   "author": "buba-ru",
   "license": "ISC",
